@@ -1,0 +1,20 @@
+
+#icon_div{
+    max-height: 300px;
+    overflow: auto;
+}
+#icon_div input{
+    width:75px;height:75px;opacity:0;margin-right:-75px;cursor: pointer;
+}
+#icon_div img{
+    border:3px solid transparent;width:75px;height:75px;margin-right:10px;margin-top:-75px;
+}
+#icon_div input:checked + img
+{
+    border:3px solid red;
+}
+
+.game-img{
+    width:60px;
+    height:60px
+}

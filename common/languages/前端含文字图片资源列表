@@ -1,0 +1,105 @@
+###############################################
+# 前端设计含文字的图片列表
+###############################################
+
+## global
+frontend/public/img/global/icon_qq_online.jpg
+frontend/public/img/global/icon_top_tip.jpg
+
+## 活动图片
+frontend/public/img/activity/bg_activity.jpg
+frontend/public/img/activity/bg_index.jpg
+frontend/public/img/activity/btn_right_info.png
+frontend/public/img/activity/btn_right_join.jpg
+frontend/public/img/activity/btn_right_mark.jpg
+frontend/public/img/activity/btn_right_rank.jpg
+frontend/public/img/activity/btn_right_top.jpg
+frontend/public/img/activity/btn_signed.jpg
+frontend/public/img/activity/btn_signin.jpg
+frontend/public/img/activity/icon_prize_1_1.jpg
+frontend/public/img/activity/icon_prize_1_2.jpg
+frontend/public/img/activity/icon_prize_2_1.jpg
+frontend/public/img/activity/icon_prize_2_2.jpg
+frontend/public/img/activity/icon_prize_3_1.jpg
+frontend/public/img/activity/icon_prize_3_2.jpg
+frontend/public/img/activity/icon_prize_4_1.jpg
+frontend/public/img/activity/icon_prize_4_2.jpg
+frontend/public/img/activity/icon_prize_5_1.jpg
+frontend/public/img/activity/icon_prize_5_2.jpg
+frontend/public/img/activity/icon_prize_6_1.jpg
+frontend/public/img/activity/icon_prize_6_2.jpg
+frontend/public/img/activity/icon_rank_title.jpg
+frontend/public/img/activity/tab_1_1.jpg
+frontend/public/img/activity/tab_1_2.jpg
+frontend/public/img/activity/tab_2_1.jpg
+frontend/public/img/activity/tab_2_2.jpg
+frontend/public/img/activity/text_rank.jpg
+frontend/public/img/activity/text_score.jpg
+
+
+## banner
+frontend/public/img/banner/font_6_1.jpg
+frontend/public/img/banner/font_6_2.jpg
+
+## bet
+frontend/public/img/bet/btn_bet_max.jpg
+frontend/public/img/bet/btn_bet_ok_1.jpg
+frontend/public/img/bet/btn_bet_ok_2.jpg
+frontend/public/img/bet/btn_score_max.jpg
+
+## live
+frontend/public/img/live/icon_video_left.jpg
+frontend/public/img/live/text_channel_1.jpg
+frontend/public/img/live/text_channel_2.jpg
+frontend/public/img/live/text_channel_3.jpg
+frontend/public/img/live/text_channel_4.jpg
+
+## race
+frontend/public/img/race/icon_handicp_status_1.jpg
+frontend/public/img/race/icon_handicp_status_2.jpg
+frontend/public/img/race/icon_handicp_status_3.jpg
+frontend/public/img/race/icon_race_empty.jpg
+
+## text
+frontend/public/img/text/text_bet_history_1.jpg
+frontend/public/img/text/text_bet_history_2.jpg
+frontend/public/img/text/text_handicap_1_1.jpg
+frontend/public/img/text/text_handicap_1_2.jpg
+frontend/public/img/text/text_handicap_2_1.jpg
+frontend/public/img/text/text_handicap_2_2.jpg
+frontend/public/img/text/text_handicap_3_1.jpg
+frontend/public/img/text/text_handicap_3_2.jpg
+frontend/public/img/text/text_handicap_4_1.jpg
+frontend/public/img/text/text_handicap_4_2.jpg
+frontend/public/img/text/text_money.jpg
+frontend/public/img/text/text_race_result_1.jpg
+frontend/public/img/text/text_race_result_2.jpg
+frontend/public/img/text/text_score.jpg
+frontend/public/img/text/text_status_1_1.jpg
+frontend/public/img/text/text_status_1_2.jpg
+frontend/public/img/text/text_status_2_1.jpg
+frontend/public/img/text/text_status_2_2.jpg
+frontend/public/img/text/text_status_3_1.jpg
+frontend/public/img/text/text_status_3_2.jpg
+frontend/public/img/text/text_status_4_1.jpg
+frontend/public/img/text/text_status_4_2.jpg
+frontend/public/img/text/text_status_5_1.jpg
+frontend/public/img/text/text_status_5_2.jpg
+frontend/public/img/text/text_status_6_1.jpg
+frontend/public/img/text/text_status_6_2.jpg
+frontend/public/img/text/text_status_7_1.jpg
+frontend/public/img/text/text_status_7_2.jpg
+frontend/public/img/text/text_status_8_1.jpg
+frontend/public/img/text/text_status_8_2.jpg
+
+## user
+frontend/public/img/user/bg_input_findpwd.jpg
+frontend/public/img/user/bg_input_login.jpg
+frontend/public/img/user/bg_input_reset.jpg
+frontend/public/img/user/bg_input_signup.jpg
+frontend/public/img/user/bg_input_signup_2.jpg
+frontend/public/img/user/btn_confirm.jpg
+frontend/public/img/user/btn_login.jpg
+frontend/public/img/user/btn_signup.jpg
+frontend/public/img/user/btn_signup_2.jpg
+

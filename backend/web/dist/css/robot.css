@@ -1,0 +1,48 @@
+.robot_top{
+    width: 1000px;
+    height: 400px;
+    margin: 50px 0 0 50px;
+    background: #25385E;
+    border: 2px #FFFFFF solid;
+    position: relative;
+}
+.robot_top2{
+    width: 1000px;
+    height: 300px;
+    margin: 0 0 0 50px;
+    background: #25385E;
+    border: 2px #FFFFFF solid;
+    position: relative;
+}
+.robot_title{
+    position: absolute;
+    top:-9px;
+    left:20px;
+    color:#FFFFFF;
+    text-align: center;
+    padding:0 14px 0 14px;
+    background: #25385E;
+}
+.formula_content{
+    color:#FFFFFF;
+    margin: 50px 0 0 50px;
+    font-size: 20px;
+}
+.robot_form_span{
+    color:#FFFFFF;
+    margin: 50px 0 5px 30px;
+    font-size: 18px;
+}
+.robot_input{
+    height: 30px;
+    text-indent: 15px;
+    border-radius: 12px 12px;
+    width:150px;
+    background-color: #ffffff;
+    color: black;
+    border: 1px solid #2d4363;
+}
+.robot_button{
+    height: 30px;
+    font-size: 18px;
+}

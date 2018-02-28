@@ -1,0 +1,109 @@
+.risk_top {
+    width: 500px;
+    height: 300px;
+    margin: 50px 0 0 50px;
+    background: #25385E;
+    border: 2px #FFFFFF solid;
+    position: relative;
+    display: inline-block;
+    float:left;
+}
+
+.risk_top2 {
+    width: 1050px;
+    height: 250px;
+    margin: 50px 0 0 0;
+    background: #25385E;
+    border: 2px #FFFFFF solid;
+    position: relative;
+    display: inline-block;
+    padding-right: 200px;
+}
+
+.risk_big {
+    width: 1050px;
+    margin-left: 50px;
+    clear: both;
+}
+
+.risk_title {
+    position: absolute;
+    top: -9px;
+    left: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 0 14px 0 14px;
+    background: #25385E;
+}
+
+.risk_content {
+    color: #FFFFFF;
+    margin: 50px 0 0 50px;
+    font-size: 20px;
+}
+
+.risk_form_span {
+    color: #FFFFFF;
+    margin: 50px 0 5px 30px;
+    font-size: 18px;
+}
+
+.risk_form_part {
+    color: #FFFFFF;
+    margin: 40px 0 0 70px;
+    font-size: 18px;
+    /*display: inline-block;*/
+    float:left;
+}
+
+.risk_form_span2 {
+    margin-top:30px;
+}
+
+.risk_input {
+    height: 30px;
+    text-indent: 15px;
+    border-radius: 12px 12px;
+    width: 150px;
+    background-color: #ffffff;
+    color: black;
+    border: 1px solid #2d4363;
+}
+
+.risk_button {
+    height: 30px;
+    font-size: 18px;
+}
+
+.risk_label {
+    margin: 20px 20px 0 0;
+    display: inline-block
+}
+
+.risk_radio {
+    display: none
+}
+
+.risk_radioInput {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 100%;
+    display: inline-block;
+    height: 16px;
+    margin-right: 10px;
+    margin-top: -1px;
+    vertical-align: middle;
+    width: 16px;
+    line-height: 1
+}
+
+.risk_radio:checked + .risk_radioInput:after {
+    background-color: #57ad68;
+    border-radius: 100%;
+    content: "";
+    display: inline-block;
+    height: 14px;
+    margin-left:0;
+    margin-bottom:2px;
+    width: 14px
+}

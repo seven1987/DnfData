@@ -1,0 +1,95 @@
+
+.handicap_odd_list{
+    min-width: 310px;;
+}
+.handicap_profit_list{
+    min-width: 110px;
+}
+.handicap_time_list{
+    max-width: 130px;
+}
+
+.unopen{
+    display: none;
+}
+
+.common-margin {
+    margin: 5px;
+}
+
+.search-btn {
+    margin: 15px;
+}
+
+.batch-btn-div {
+    text-align:right;
+    padding-right:30px;
+}
+
+.batch-btn {
+    margin-left:15px;
+}
+
+.round-label {
+    color:rgb(235,90,75);
+    font-weight:bold;
+}
+
+.current-odds {
+    color:red;
+    cursor: pointer;
+}
+
+.autoreturnrate, .advancedpaid{
+    font-weight:bold;
+    cursor: pointer;
+}
+
+.odds-reduce-btn,.odds-add-btn
+{
+    margin: 0;
+    cursor: pointer;
+}
+
+.operate-btn {
+    margin-bottom:10px;
+}
+
+.profit-win {
+    color: red;
+}
+
+.profit-lose {
+    color: green;
+}
+
+.aotuoddopen{
+    width:13px;
+    height:13px;
+    float:right;
+}
+
+.autoodd,.autoaddreduce{
+    display:none;
+}
+
+.autoname{
+    float:right;
+}.
+.undisplay{
+    display:none;
+}
+
+#table_body >.raceTable{
+    border-radius: 8px 8px !important;
+    /*border:1px solid red;*/
+    background-color: #396197 !important;
+    overflow: hidden !important;
+}
+
+
+
+
+
+
+

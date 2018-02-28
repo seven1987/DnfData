@@ -1,0 +1,24 @@
+#logo_div {
+    max-height: 300px;
+    overflow: auto;
+}
+
+#logo_div input {
+    width: 75px;
+    height: 75px;
+    opacity: 0;
+    margin-right: -75px;
+    cursor: pointer;
+}
+
+#logo_div img {
+    border: 3px solid transparent;
+    width: 75px;
+    height: 75px;
+    margin-right: 10px;
+    margin-top: -100px;
+}
+
+#logo_div input:checked + img {
+    border: 3px solid red;
+}

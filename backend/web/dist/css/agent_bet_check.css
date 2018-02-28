@@ -1,0 +1,121 @@
+.content {
+    height: 810px;
+}
+
+.form-group {
+    margin-right: 20px;
+}
+
+.filter_money_text {
+    color: #00a7d0;
+}
+
+.filter_money_input {
+    width: 50px;
+}
+
+.layui-form-label {
+    margin-bottom: 0;
+}
+
+.bet-table {
+    margin-top: 10px;
+    overflow-y: auto;
+    height: 585px;
+}
+
+.bet-table.string {
+    height: 630px;
+}
+
+.bet-count {
+    color: #ee26ea;
+}
+
+.agent-check-body{
+    margin-top:2px;
+    padding-top:20px;
+    padding-bottom: 5px;
+    background-color: #325585;
+}
+.agent-check-body>div{
+    height:31px !important;
+}
+.agent-check-lable{
+    background-color: #325585 !important;
+    border: 1px solid #325585 !important;
+    color:rgb(181,190,210);
+    width:70px !important;
+    padding:4px 4px 4px 4px !important;
+}
+
+.check-number input{
+    border-top-left-radius: 16px !important;
+    border-bottom-left-radius: 16px !important;
+    height:31px !important;
+    line-height: 31px !important;
+}
+.check-number-content input{
+    border-top-right-radius: 16px !important;
+    border-bottom-right-radius: 16px !important;
+    margin-left: -4px;
+    height: 31px !important;
+    line-height: 31px !important;
+}
+.layui-tab-title{
+
+    background-color: #314c79 !important;
+}
+
+.layui-tab-title {
+    position: relative;
+    left: 0;
+    height: 31px;
+    white-space: nowrap;
+    font-size: 0;
+    border-bottom: 1px solid transparent;
+    transition: all .2s;
+    -webkit-transition: all .2s;
+}
+
+.layui-tab-title >li {
+    height: 31px;
+    line-height: 30px;
+}
+
+
+.layui-this:after {
+    border: none;
+    border-radius: 0;
+    border-bottom: 3px solid rgb(56,167,223) !important;
+    height:33px !important;
+}
+.layui-tab-title>li>span,.layui-tab-title>li{
+    color:rgb(158,158,159) ;
+}
+.layui-tab-brief > .layui-tab-title .layui-this span,.layui-tab-brief > .layui-tab-title .layui-this{
+    color: #FFFFFF;
+}
+.check-hantype{
+    background-color: rgb(45,67,100) !important;
+}
+.check-data{
+    background-color: #304875 !important;
+}
+.agent-check-time, .agent-check-operate{
+    background-color: #304875 !important;
+    border :1px solid #304875 !important;
+    color:rgb(181,190,210);
+    padding:4px 4px 4px 10px !important;
+}
+.check-bets-body,.check-bets-body>div,.check-bets-body>button{
+    height:31px !important;
+}
+.agent-data-body{
+    height:31px !important;
+}
+.agent-data-body input, .agent-data-body select{
+    height:31px !important;
+    line-height: 30px;
+    border-radius: 14px !important;
+}
